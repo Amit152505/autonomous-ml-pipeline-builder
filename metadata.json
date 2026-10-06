@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous ML Pipeline Builder",
+  "description": "Beginner-friendly, modular AutoML pipeline builder for tabular dataset profiling, preprocessing, model training, evaluation, explainability, and interactive inference.",
+  "requestFramePermissions": []
+}

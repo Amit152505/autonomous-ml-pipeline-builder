@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+.pytest_cache/
+*.joblib
+!models/.gitkeep
+.DS_Store
+node_modules/
+dist/
