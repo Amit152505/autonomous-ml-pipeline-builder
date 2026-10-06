@@ -1,0 +1,61 @@
+customer_id,age,tenure_months,monthly_charges,contract_type,tech_support,paperless_billing,churn
+CUST_1001,34,12,65.5,Month-to-month,No,Yes,No
+CUST_1002,45,4,89.0,Month-to-month,No,Yes,Yes
+CUST_1003,23,36,45.2,One year,Yes,No,No
+CUST_1004,58,60,105.4,Two year,Yes,Yes,No
+CUST_1005,,2,75.0,Month-to-month,No,Yes,Yes
+CUST_1006,41,8,92.1,Month-to-month,,Yes,Yes
+CUST_1007,31,24,55.8,One year,Yes,No,No
+CUST_1008,62,48,99.5,Two year,Yes,No,No
+CUST_1009,27,1,70.2,Month-to-month,No,Yes,Yes
+CUST_1010,50,15,62.0,Month-to-month,Yes,Yes,No
+CUST_1011,38,3,80.5,Month-to-month,No,Yes,Yes
+CUST_1012,29,30,40.0,One year,Yes,No,No
+CUST_1013,67,55,110.0,Two year,Yes,Yes,No
+CUST_1014,,6,85.2,Month-to-month,No,Yes,Yes
+CUST_1015,48,18,58.3,,No,No,No
+CUST_1016,22,5,72.1,Month-to-month,No,Yes,Yes
+CUST_1017,54,42,95.0,Two year,Yes,No,No
+CUST_1018,36,9,88.4,Month-to-month,No,Yes,Yes
+CUST_1019,43,28,52.0,One year,Yes,No,No
+CUST_1020,31,14,64.5,Month-to-month,No,Yes,No
+CUST_1021,59,38,102.0,Two year,Yes,Yes,No
+CUST_1022,25,2,79.5,Month-to-month,No,Yes,Yes
+CUST_1023,49,20,68.0,One year,No,No,No
+CUST_1024,33,7,84.0,Month-to-month,No,Yes,Yes
+CUST_1025,60,65,112.5,Two year,Yes,No,No
+CUST_1026,28,11,60.0,Month-to-month,No,Yes,No
+CUST_1027,46,5,91.2,Month-to-month,No,Yes,Yes
+CUST_1028,35,32,48.5,One year,Yes,No,No
+CUST_1029,52,50,98.0,Two year,Yes,Yes,No
+CUST_1030,,3,82.3,Month-to-month,No,Yes,Yes
+CUST_1031,40,16,66.0,Month-to-month,Yes,No,No
+CUST_1032,24,1,74.5,Month-to-month,No,Yes,Yes
+CUST_1033,56,44,97.2,Two year,Yes,No,No
+CUST_1034,30,22,53.0,One year,No,No,No
+CUST_1035,63,58,108.0,Two year,Yes,Yes,No
+CUST_1036,26,4,86.0,Month-to-month,No,Yes,Yes
+CUST_1037,47,19,63.5,Month-to-month,No,Yes,No
+CUST_1038,37,8,83.0,Month-to-month,No,Yes,Yes
+CUST_1039,53,35,90.5,One year,Yes,No,No
+CUST_1040,32,10,61.0,Month-to-month,No,Yes,No
+CUST_1041,61,62,115.0,Two year,Yes,Yes,No
+CUST_1042,21,2,78.0,Month-to-month,No,Yes,Yes
+CUST_1043,44,25,56.5,One year,Yes,No,No
+CUST_1044,39,6,87.0,Month-to-month,No,Yes,Yes
+CUST_1045,55,46,96.0,Two year,Yes,No,No
+CUST_1046,28,13,67.0,Month-to-month,No,Yes,No
+CUST_1047,51,3,89.5,Month-to-month,No,Yes,Yes
+CUST_1048,34,29,50.0,One year,Yes,No,No
+CUST_1049,66,52,104.0,Two year,Yes,Yes,No
+CUST_1050,23,5,81.5,Month-to-month,No,Yes,Yes
+CUST_1051,42,17,64.0,Month-to-month,Yes,No,No
+CUST_1052,30,1,76.0,Month-to-month,No,Yes,Yes
+CUST_1053,57,40,94.5,Two year,Yes,No,No
+CUST_1054,36,21,54.0,One year,No,No,No
+CUST_1055,64,66,118.0,Two year,Yes,Yes,No
+CUST_1056,25,4,85.0,Month-to-month,No,Yes,Yes
+CUST_1057,48,15,62.5,Month-to-month,No,Yes,No
+CUST_1058,33,7,82.0,Month-to-month,No,Yes,Yes
+CUST_1059,54,34,91.0,One year,Yes,No,No
+CUST_1060,29,12,65.0,Month-to-month,No,Yes,No
